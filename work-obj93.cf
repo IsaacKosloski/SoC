@@ -1,0 +1,7 @@
+v 4
+file . "tb_codec.vhd" "7a19146714ffa7ecf9f776a88fa47ede4e7c604a" "20231024014610.898":
+  entity tb_codec at 1( 0) + 0 on 13;
+  architecture mixed of tb_codec at 7( 82) + 0 on 14;
+file . "codec.vhd" "fad278f6c079fb46c5f2b626385c9895de8c0a15" "20231024014357.534":
+  entity codec at 1( 0) + 0 on 11;
+  architecture behavioral of codec at 18( 493) + 0 on 12;
